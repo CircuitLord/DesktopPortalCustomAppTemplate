@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1295631454, guid: 4d9ac0cbb6dcbc8428255d2df10dafee, type: 3}
+  m_Name: ModToolsSettings
+  m_EditorClassIdentifier: 
+  toolsIconSmall: {fileID: 2800000, guid: 068fd935e82a2594d8ba4512c651407f, type: 3}
+  toolsIconLarge: {fileID: 0}
+  toolsName: Desktop Portal Interface
+  toolsVersion: 1.0.0
+  firstRunWindow:
+    assemblyQualifiedName: UMod.Exporter.CreateModWindow, UMod-Exporter, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  developerName: CircuitCubed
+  gameName: Desktop Portal
+  gameVersion: 0.6.4
+  modFileExtension: .dpm
+  commandLineLaunchFormat: +mod=$PATH
+  targetUnityVersion: 2019.3.3f1
+  developerWebsiteURL: http://trivialinteractive.co.uk
+  onlineDocumentationURL: http://umod.trivialinteractive.co.uk/umoduserguide.html
+  onlineScriptingReferenceURL: http://umod.trivialinteractive.co.uk/scriptingreference
+  assetSharing:
+    sharedAssetBundlePath: Resources/Editor/ModToolsSharedAssets.modbundle
+    sharedAssets:
+    - assetGUID: 47b13047-1d4a-4e9d-9d80-58906a0a63e1
+      assetBundlePath: Assets/MentalDreamsAssets/PropsPack/Prefabs/barrel.prefab
+      assetPreviewBundlePath: Assets/umod-buildtools-sharedasset-previews/barrel.prefab.png
+      assetType:
+        assemblyQualifiedName: UnityEngine.GameObject, UnityEngine, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      assetLabels: []
+    - assetGUID: 9f4f73a2-aacf-44a6-9f0c-cfe4dec33078
+      assetBundlePath: Assets/MentalDreamsAssets/PropsPack/Prefabs/bin.prefab
+      assetPreviewBundlePath: Assets/umod-buildtools-sharedasset-previews/bin.prefab.png
+      assetType:
+        assemblyQualifiedName: UnityEngine.GameObject, UnityEngine, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      assetLabels: []
+    - assetGUID: 5cac6bab-f4da-4956-ae31-558c6a23499f
+      assetBundlePath: Assets/MentalDreamsAssets/PropsPack/Prefabs/box.prefab
+      assetPreviewBundlePath: Assets/umod-buildtools-sharedasset-previews/box.prefab.png
+      assetType:
+        assemblyQualifiedName: UnityEngine.GameObject, UnityEngine, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      assetLabels: []
+    - assetGUID: f5719094-1902-42ff-864f-6a88270a979f
+      assetBundlePath: Assets/MentalDreamsAssets/PropsPack/Prefabs/Box004.prefab
+      assetPreviewBundlePath: Assets/umod-buildtools-sharedasset-previews/Box004.prefab.png
+      assetType:
+        assemblyQualifiedName: UnityEngine.GameObject, UnityEngine, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      assetLabels: []
+    - assetGUID: a5febdc8-9447-4b0c-ab3b-a2f118d0661e
+      assetBundlePath: Assets/MentalDreamsAssets/PropsPack/Prefabs/bucket.prefab
+      assetPreviewBundlePath: Assets/umod-buildtools-sharedasset-previews/bucket.prefab.png
+      assetType:
+        assemblyQualifiedName: UnityEngine.GameObject, UnityEngine, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      assetLabels: []
+    - assetGUID: 9c34f632-b4f0-4003-89e4-b5691e28a8d9
+      assetBundlePath: Assets/MentalDreamsAssets/PropsPack/Prefabs/cabinet.prefab
+      assetPreviewBundlePath: Assets/umod-buildtools-sharedasset-previews/cabinet.prefab.png
+      assetType:
+        assemblyQualifiedName: UnityEngine.GameObject, UnityEngine, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      assetLabels: []
+    - assetGUID: 86752c55-3f53-4e73-83c4-7626744dec09
+      assetBundlePath: Assets/MentalDreamsAssets/PropsPack/Prefabs/cablereel.prefab
+      assetPreviewBundlePath: Assets/umod-buildtools-sharedasset-previews/cablereel.prefab.png
+      assetType:
+        assemblyQualifiedName: UnityEngine.GameObject, UnityEngine, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      assetLabels: []
+    - assetGUID: dff32637-6d98-4516-8b23-339ad065ea08
+      assetBundlePath: Assets/MentalDreamsAssets/PropsPack/Prefabs/palette_box.prefab
+      assetPreviewBundlePath: Assets/umod-buildtools-sharedasset-previews/palette_box.prefab.png
+      assetType:
+        assemblyQualifiedName: UnityEngine.GameObject, UnityEngine, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      assetLabels: []
+    - assetGUID: d04e59a8-a90d-4406-ab0c-a6bbabfd8bb8
+      assetBundlePath: Assets/MentalDreamsAssets/PropsPack/Prefabs/shelf.prefab
+      assetPreviewBundlePath: Assets/umod-buildtools-sharedasset-previews/shelf.prefab.png
+      assetType:
+        assemblyQualifiedName: UnityEngine.GameObject, UnityEngine, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      assetLabels: []
+  options:
+    allowAssetsInMods: 1
+    allowScenesInMods: 1
+    allowScriptsInMods: 1
+    allowMultipleModsPerProject: 1
+    allowModReferences: 1
+    allowDotNet4X: 1
+    allowMenu: 1
+    menuRoot: Mod Tools
+    menuEntries:
+    - menuEntryName: Create/New Mod
+      menuAction: 5
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: UMod.Exporter.CreateModWindow, UMod-Exporter, Version=1.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - menuEntryName: Create/Prefab Node
+      menuAction: 1
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: 
+    - menuEntryName: Create/Material Node
+      menuAction: 2
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: 
+    - menuEntryName: 
+      menuAction: 0
+      enabled: 1
+      isSeparator: 1
+      windowType:
+        assemblyQualifiedName: 
+    - menuEntryName: Exporter
+      menuAction: 5
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: UMod.Exporter.ExporterWindow, UMod-Exporter, Version=1.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - menuEntryName: 
+      menuAction: 0
+      enabled: 1
+      isSeparator: 1
+      windowType:
+        assemblyQualifiedName: 
+    - menuEntryName: Export Settings
+      menuAction: 5
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: UMod.Exporter.SettingsWindow, UMod-Exporter, Version=1.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - menuEntryName: Build Mod %#b
+      menuAction: 3
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: 
+    - menuEntryName: Build and Run %#r
+      menuAction: 0
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: 
+    - menuEntryName: 
+      menuAction: 0
+      enabled: 1
+      isSeparator: 1
+      windowType:
+        assemblyQualifiedName: 
+    - menuEntryName: Help
+      menuAction: 5
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: UMod.Exporter.HelpWindow, UMod-Exporter, Version=1.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - menuEntryName: About
+      menuAction: 5
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: UMod.Exporter.AboutWindow, UMod-Exporter, Version=1.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - menuEntryName: 
+      menuAction: 0
+      enabled: 1
+      isSeparator: 1
+      windowType:
+        assemblyQualifiedName: 
+    - menuEntryName: Referencing/Rebuild Reference Cache
+      menuAction: 6
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: 
+    - menuEntryName: 
+      menuAction: 0
+      enabled: 1
+      isSeparator: 1
+      windowType:
+        assemblyQualifiedName: 
+    - menuEntryName: Game Assets (Experimental)
+      menuAction: 5
+      enabled: 1
+      isSeparator: 0
+      windowType:
+        assemblyQualifiedName: UMod.Exporter.GameAssetsWindow, UMod-Exporter, Version=1.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    readOnly: 0
+  security:
+    performBuildSecurityChecks: 1
+    allowScriptsInMods: 1
+    allowAssembliesInMods: 1
+    securityRestrictions: {fileID: 11400000, guid: 8d55681ab9ab21a488be988ddf1c985d,
+      type: 2}
+    readOnly: 0
+  gameLocking:
+    allowGameLocking: 1
+    allowGameVersionLocking: 1
+    gameLockingGUID: 722bf660-584f-46c5-a6a9-5cd4d8e17b16
+    readOnly: 0
+  readOnly: 1
+  newModTextFile: {fileID: 4900000, guid: 565e07c038553cf488486a6cbfad595c, type: 3}
